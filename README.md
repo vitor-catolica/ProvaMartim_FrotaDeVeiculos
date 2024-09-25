@@ -1,4 +1,5 @@
 # Gerenciamento de frotas
+#### Dupla: Henrique Aldrovandi Lazzarino e Vitor Manoel Alves de Andrade
 
 ## Tabela resumo
 | Código   | Nome                                         | Prioridade  |
